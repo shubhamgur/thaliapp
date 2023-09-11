@@ -1,0 +1,27 @@
+.image{
+    height: 170px;
+    width: 300px;
+    border-radius: 100px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.heder{
+    text-align: center;
+    background-color: bisque;
+    font-style: italic;
+}
+
+.btn{
+    margin-top: 10px;
+    text-align: center; 
+}
+
+.main{
+    background-color: bisque;
+    padding-bottom: 40px;
+}
+
+.msg{
+    color: red;
+}

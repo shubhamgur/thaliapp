@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+}
+
+.heder{
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.border{
+    border: 2px solid #ddd;
+}
+
+.list{
+    margin: 40px 0;
+    border: 1px solid;
+    background-color: gainsboro;
+}
+
+.heading{
+    font-weight: bold;
+    border: 3px solid;
+    padding: 10px;
+    background-color: rgb(165, 155, 155);
+}
+
+.item{
+    border: 1px solid gray;
+    padding: 10px;
+}
